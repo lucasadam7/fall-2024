@@ -2,9 +2,10 @@ project:
   type: website
 
 website:
+  google-analytics: G-3T34S31LG1
   sidebar:
     style: docked
-    title: "Stat 999"
+    title: "Stat 2"
     logo: assets/stat_bear.png
     contents:
       - href: index.qmd
