@@ -1,5 +1,135 @@
 [
   {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Note\n\n\n\nPlease note that this syllabus is subject to change and may be updated during the semester.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-details",
+    "href": "syllabus.html#course-details",
+    "title": "Syllabus",
+    "section": "Course Details",
+    "text": "Course Details\n\nCourse format: online\nFour (4) semester credits",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThis course will introduce you to statistical reasoning, which is a framework for learning from data. We’ll start with descriptive statistics that allow us to summarize important features of data we’ve collected without requiring much in the way of mathematical theory or assumptions. Then we’ll move on to probability and inference.\nProbability gives us a language for talking about how random variability arises in the data we collect. Inference uses the language of probability to help us determine what we can learn from our data despite the presence of that random variability.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#prerequisites",
+    "href": "syllabus.html#prerequisites",
+    "title": "Syllabus",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThere are no prior course requirements.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-learning-objectives",
+    "href": "syllabus.html#course-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Learning Objectives",
+    "text": "Course Learning Objectives\nAfter successfully completing this course, you will be able to:\n\nIdentify and create appropriate visual and numerical summaries for different data types\nDescribe where an observation lies relative to a distribution (e.g. using standard units and/or percentile ranks)\nApply the normal approximation to data, and identify situations when this is or isn’t appropriate\nCalculate chances of events using basic laws of probability\nUnderstand what the sampling distribution (probability histogram) of a statistic is\nCarry out and interpret standard statistical inference techniques including correlation, regression, plug-in estimation, confidence intervals, and hypothesis testing\nExplain the relationship between the sampling distribution and the precision of standard statistical inference techniques\nEvaluate and critique reported statistical results in the real world\n\n\nInstructor Information and Communication\n\nCourse Instructor\n\nAdam Lucas\n\n\n\nGraduate Student Instructors (GSIs)\n\nIsabel Moreno: (labs 105,106)\nFrederik Stihler: (labs 101,103)\nLauren Murai: (labs 102,104)\nJasmine Khamuani (labs 107,110)\nYimeng Yin (labs 108,109)\nAustin Tao (labs 111,117)\nCancan Jin (labs 112, 113)\nMinh Le (labs 114, 116)\nYichen Xu (labs 115, 118)\n\nWhile the instructor will interact with the whole class and will oversee all activities and grading, as well as being available to resolve any issues that may arise, the GSIs will be your main point of contact. Your GSIs are responsible for assisting you directly with questions about assignments and course requirements. The GSIs will also facilitate ongoing discussion and interaction with you on major topics in each module.\n\n\n\nGSI Office Hours\nThe GSIs will offer office hours in person or via Zoom. These office hours allow for synchronous interaction with the GSIs and are a good opportunity to discuss your questions relevant to the course. You may attend any office hours, not only those for your assigned GSI and instructor. Times and links to the appropriate Zoom meeting will be available in bCourses. See bCourses for the time and place.\n\n\nQuestion & Answer Sessions\nThe instructor will hold in person Q&A sessions to address any questions you have on the homework and other course related questions. See bCourses for the time and place.\n\n\nCourse Mail\nPlease contact your instructor and GSI using your Berkeley email (not through bCourses).\n\n\nCourse Help\nYou’re not alone in this course; the instructor and GSIs are here to support you as you learn the material. It's expected that some aspects of this course will take time to grasp, and the best way to grasp challenging material is to ask questions.\nWe will be using Ed Discussion as our discussion forum. A link to ED is on bCourses. You can also reach out to the course staff in office hours, Q&A sessions, lab sections, and/or via email.\nIf you need to contact the instructor through email, please ensure to also include your assigned GSI in the thread, unless you need to discuss a personal matter.\n\n\nStudents with Disabilities\nIf you require course accommodations due to a physical, emotional, or learning disability, contact UC Berkeley's Disabled Students' Program (DSP). Notify the instructor and GSI through course email of the accommodations you would like to use. You must have a Letter of Accommodation on file with UC Berkeley to have accommodations made in the course.\nUC Berkeley is committed to providing robust educational experiences for all learners. With this goal in mind, we have enabled the ALLY tool for this course. You can now automatically generate “Alternative Formats” for course files and bCourses Pages. Depending on the context, these formats can include Tagged PDF, HTML, BeeLine Reader, Electronic Braille, ePub, Immersive  Reader, MP3, and translated versions. For more information, watch the video entitled, “Ally Tutorial”.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-materials-and-technical-requirements",
+    "href": "syllabus.html#course-materials-and-technical-requirements",
+    "title": "Syllabus",
+    "section": "Course Materials and Technical Requirements",
+    "text": "Course Materials and Technical Requirements\n\nTextbook / Required Materials\nThe required textbook is Statistics: Fourth Edition by Freedman, Pisani, and Purves. The paperback version of the fourth edition is fine and usually much cheaper, as is the international version. You will find the assigned readings posted on bCourses.\n\n\nTechnical Requirements\nThis course is built on a Learning Management System (LMS) called Canvas (UC Berkeley’s instance of Canvas is called bCourses). You’ll need to meet these computer specifications to participate within this online platform.\nYou will also need a calculator or calculator app that can raise numbers to a power and do square roots. Statistical or graphing calculators are not necessary.\n\nTechnical Support\nIf you’re having technical difficulties, please alert one of the GSIs immediately. However, understand that neither the GSIs, nor the instructor can assist you with technical problems. You must call or email tech support to resolve any technical issues.\nTo contact tech support, click on the \"Help\" button on the bottom left of the global navigation menu in bCourses. Be sure to document all interactions (save emails and transaction numbers).",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#learning-activities-and-assignments",
+    "href": "syllabus.html#learning-activities-and-assignments",
+    "title": "Syllabus",
+    "section": "Learning Activities and Assignments",
+    "text": "Learning Activities and Assignments\nYou’re expected to fully participate in all the course activities described below. A weekly course schedule is provided on the Syllabus page in bCourses. Check bCourses for specific assignment due dates.\n\nAsynchronous/Synchronous Format\nSome of your learning activities will be asynchronous (i.e., lectures, readings, assignments), which you can complete at any time before the due date. Other activities will be synchronous (i.e., lab sections, office hours, Q&A sessions, final exam, etc.), which you will attend at a specific time.\nAll times listed are Pacific Time—please adjust for your time zone. If you prefer, you can set your own time zone to display throughout bCourses.\n\n\nModules and Parts\nThis course is organized into Modules, each of which is further divided into Parts. You can think of a Part as being equivalent to the material covered in a traditional in-person lecture. Each Part has other learning activities associated with it. As you move through the course materials online, you are expected to fully participate in all the course activities described below.\n\n\nReading Assignments and Suggested Practice Problems\nMost Parts have a reading assignment and suggested practice problems from the textbook. You may prefer to do these either before or after watching the lecture videos. The answers to the suggested practice problems are in the back of the textbook. They are for your practice only and are not graded.\n\n\nLecture Videos and Discussion Forums\nEach Part has lecture videos for you to watch. All lectures have been pre-recorded, for you to watch on your own: there are no live lecture meetings for this course. Recorded lectures support your readings and assignments but also contain additional material that may be included in the exams. You’re expected to take notes while viewing the lectures as you would in a regular classroom. Please watch the lectures for each Part before the following day’s lab section, as indicated in the schedule on the Syllabus page in bCourses.\nThe slides for the lecture videos are also posted. I suggest you download the slides and use them to follow along and add your own notes while watching the videos. Post your comments and questions on ED and the instructor/GSIs will respond.\n\n\nComprehension Quizzes (10%)\nEach Part has a short quiz associated with it, to be completed after watching the lecture videos. Quizzes are due by 11:59 pm Pacific Time on the days indicated in the schedule. It’s important to keep up with the lecture videos and quizzes so that you’re ready to participate in labs on the scheduled dates.\n\n\nLabs/Section Participation (20%)\nLabs allow you to practice what you are learning by working on problems in a collaborative environment. There are two ways to participate in labs. You may either attend synchronously in person, or you may complete the lab problems on your own and upload a copy of your work and solutions. If you choose to complete the lab on your own, it is strongly recommended that you check your answers against the solutions (posted to bCourses the following day) and bring any questions to oﬃce hours.\nLabs are graded based on participation, with 0-2 points awarded for each lab. If you attend your lab and participate according to the guidelines your GSI describes, you will automatically get full credit. If you do the lab problems on your own, you will get credit based on the percentage of lab problems you have made a good-faith effort to complete, with 2 points for attempting everything, 1 point for attempting at least half the problems, and 0 points otherwise. You should upload your work by 11:59PM PST on the day of the lab.\nYour lab section number will be the one in which you enrolled. You can view this section number by exploring the \"Section\" column within the \"People\" page.\n\n\nHomework Assignments (30%)\nThere are 5 assignments. We use the Gradescope platform for submitting and grading assignments. You can log in directly from the Gradescope link in bCourses left navigation. Further details and instructions about uploading your assignments are included on bCourses. Assignments are due at 11:59PM PST on the dates indicated in the course schedule (see the Syllabus page in bCourses). Because of the size of the class we cannot accept late assignments. Instead we allow all students to drop one assignment for emergencies.\n\n\nMastery Quizzes (25%)\nMastery quizzes are designed to evaluate and reinforce mastery of key skills and are held in place of midterm exams. They are held on bCourses, have a default time limit of 50 minutes, and consist of multiple-choice questions. These quizzes are open book, open notes, but working with other students is prohibited. Quiz problems are also randomized to deter cheating. You should finish the Mastery quizzes by 11:59PM PST on the dates indicated in the course schedule (see the Syllabus page in bCourses).\n\n\nFinal Exam (15%)\nThe final exam will be held online (on bCourses) on December 19, 2024, 11:30–2:30pm. If you have a conflict with this time, please inform your instructors at least one month in advance to arrange an alternative time to take the exam. The final will have a similar format to the Mastery Quizzes, but it will be cumulative—covering material from the entire course—and with more questions.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nYour final course grade will be calculated as follows:\n\nTable 1: Final Grade Percentages\n\n\n\n\n\n\n\nCategory\nPercentage of Grade\nNotes\n\n\n\n\nComprehension Quizzes (24 total)\n10%\nNo extensions. The lowest 5 quiz scores will be dropped.\n\n\nLabs (22 total)\n20%\nNo extensions. The lowest 5 lab scores will be dropped.\n\n\nAssignments (5 total)\n30%\nNo extensions. The lowest 1 assignment scores will be dropped.\n\n\nMastery Quizzes (5 total)\n25%\nYou can ask for 1 extension if necessary.\n\n\nFinal Exam\n15%\nN/A\n\n\n\nCourse letter grades will be assigned based on the following intervals:\n\nTable 2: Grade Intervals\n\n\nLetter Grade\nPercentage Interval\n\n\n\n\nA+/A/A-\n100-90%\n\n\nB+/B/B-\n90-80%\n\n\nC+/C/C-\n80-60%\n\n\nF\nBelow 60%\n\n\n\nIf you are taking the class pass-fail, the cutoff for passing is 60%. The bCourses grade book uses the grading scheme above, so you can always check your current course grade there. We do not round up when calculating letter grades, even when the score is very close. This is because grades tend to have a continuous distribution, so that no matter where we set the threshold, there are always going to be students who just miss it.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#strategies-for-successful-learning",
+    "href": "syllabus.html#strategies-for-successful-learning",
+    "title": "Syllabus",
+    "section": "Strategies for Successful Learning",
+    "text": "Strategies for Successful Learning\n\nTake Care of Yourself\nDo your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep, and taking time to recharge your mental health. Taking time to care for yourself, and avoiding burnout, will help you achieve your academic, professional, and personal goals.\nIf you start to feel overwhelmed, be kind to yourself and reach out for support. Remember that seeking help is a courageous thing to do—for yourself and for those who care about you.\nSupport Resources include emotional, physical, safety, social, and other basic wellbeing resources for students. Academic resources can be found at the Student Learning Center and English Language Resource sites. Berkeley’s Office of Emergency Management has resources to prepare for emergencies.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-policies",
+    "href": "syllabus.html#course-policies",
+    "title": "Syllabus",
+    "section": "Course Policies",
+    "text": "Course Policies\n\nLate Work Policy\nComprehension quizzes and labs and assignments are not accepted for credit late, but we automatically drop the lowest 5 comprehension quizzes and labs and lowest 1 assignment when calculating your course grade. This is meant to cover a variety of issues that can arise, including technical issues, illness, work conflicts, family concerns, etc. This adjustment is already built into the bCourses gradebook. If you add the course late and miss the first assignment deadline you will need to use your 1 assignment drop on that assignment.\nDSP students whose accommodations include extensions on assignments will automatically receive a 48-hour extension on assignments on Gradescope. If you don’t see this set up for you please contact the instructor.\n\n\nScheduling Conflicts\nPlease notify the instructor in writing by the second week of the term about any known or potential academic or extracurricular conflicts. I will try my best to help you with making accommodations but cannot promise them in all cases.\n\n\nAcademic Integrity\nAny assignment or exam submitted by you is presumed to be your own original work. While you are encouraged to study together and to work together on the lab problems and assignments, there is no value to you in copying someone else’s work. The standard for what constitutes your “own original work” is that if asked, you should be able to convincingly explain out loud what you have written to the instructor or a GSI. As you work on assignments, you can talk to each other about the problems, but you need to get to the point where the answer is something you have internalized as something you, yourself, understand well enough to convincingly explain to someone else. In cases where cheating is suspected, the instructor or GSI may ask you to make this verbal explanation.\nTo copy text or ideas from another source without appropriate reference is plagiarism and will result in a failing grade for your assignment and usually further disciplinary action. If you’re unclear about the expectations for completing an assignment or taking a test or examination, be sure to seek clarification from your instructor or GSI beforehand. For additional information, read these UC Berkeley Library guides on How to Avoid Plagiarism and Statistics: Writing + Citing (the latter includes some recommended citation management tools).\nAs a member of the campus community, you’re expected to demonstrate integrity in all of your academic endeavors and will be evaluated on your own merits. The consequences of cheating and academic dishonesty—including a formal discipline file, possible loss of future internship, scholarship, or employment opportunities, and denial of admission to graduate school—are simply not worth it. Read more about Berkeley’s Honor Code.\n\n\nIncomplete Course Grade\nStudents who have substantially completed the course but for serious extenuating circumstances, are unable to complete the remaining course activities, may request an Incomplete grade. This request must be submitted in writing to the GSI and instructor. You must provide verifiable documentation for the seriousness of the extenuating circumstances.\nRefer to the Office of the Registrar's website for more information on the university's policy on Incomplete Grades.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#end-of-course-evaluation",
+    "href": "syllabus.html#end-of-course-evaluation",
+    "title": "Syllabus",
+    "section": "End of Course Evaluation",
+    "text": "End of Course Evaluation\nUC Berkeley is committed to improving our online courses and instruction. Before your course ends, please take a few minutes to participate in the course evaluation. We are interested in your online learning experience, and your feedback will help us plan for the future and make improvements. The evaluation does not request any personal information, and your responses will remain strictly confidential. Information about the course evaluation will be made available in bCourses.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-outline",
+    "href": "syllabus.html#course-outline",
+    "title": "Syllabus",
+    "section": "Course Outline",
+    "text": "Course Outline\nNote: All dates are included in the bCourses calendar and in the Schedule of Activities on the Syllabus page in bCourses.\n\nModule 1: Data collection and variables (Weeks 1-2)\nTopics: Data collection; experimental design; limitations of observational studies; randomized clinical trials; confounding variables; variable types\nLecture video – How this course is taught Lecture video - Statistics: The big picture\nComprehension Quiz 1 Lecture video - Data collection Lecture video - Variable types Comprehension Quiz 2\nLab 1: Data collection and variable types\n\n\nModule 2: Describing one quantitative variable (Week 3)\nTopics: Histograms, standard measures of center and spread, summarizing shapes of distributions; percentiles; standard units (z- scores)\nLecture video - Interpreting histograms Lecture video - Crowding and the density scale Lecture video - Drawing a histogram Comprehension Quiz 3\nLab 2: Histograms\nLecture video - Describing the center Lecture video - The interquartile range Lecture video - The standard deviation Comprehension Quiz 4\nLab 3: Summary statistics Assignment 1 (covers Modules 1 & 2)\n\n\nModule 3: The normal approximation (Week 4)\nTopics: Normal curve calculations using a table; normal approximation to data; percentiles and percentile ranks using the normal approximation; linear transformations\nLecture video - Standard units\nLecture video - The normal curve\nLecture video - The normal approximation to data Lab 4: Standard units and the normal curve Comprehension Quiz 5\nLecture video - Normal approximation caveats and percentiles Lecture video - Three ways to represent an observation Lecture video - Linear transformations\nComprehension Quiz 6\nLab 5: Normal approximation and percentiles Mastery Quiz 1 (covers Module 3)\n\n\nModule 4: Describing two quantitative variables (Weeks 5-7)\nTopics: Scatterplots; correlation coefficient; regression line; errors in regression; normal approximations in regression; regression effect\nLecture video - The correlation coefficient Lecture video - Advanced use of scatterplots\nLecture video - Use and misuse of scatterplots and correlation Comprehension Quiz 7\nLab 6: Correlation\nLecture video - The regression line\nLecture video - The \"two variable roadmap\" Lecture video - The regression effect Comprehension Quiz 8\nLab 7: Regression - prediction and estimation\nMastery Quiz 2 (covers Module 4, Part 2 -- material from Lecture 8.1 through Lab 7)\nLecture video - Errors in regression Lecture video - RMS error\nLecture video - Normal approximations in regression Comprehension Quiz 9\nLab 8: Regression - Roadmap, regression effect, and RMS error Lecture video - Intercept and slope of the regression line Lecture video - Regression review\nComprehension Quiz 10\nLab 9: Regression - Residual plots, “slice problems,” and review Assignment 2 (covers Module 4)\n\n\nModule 5: The language of probability (Weeks 8-9)\nTopics: Definitions of probability; probability rules; two-way tables; conditional probability; independent and mutually exclusive events; multiplication and addition rules\nLecture video - Why study probability? Lecture video - Defining probability\nLecture video - Basic rules of probability and conditional probability Comprehension Quiz 11\nLab 10: Basic probability rules Lecture video - The multiplication rule Lecture video - Independent events\nLecture video - Checking for independence Comprehension Quiz 12\nMastery Quiz 3 (Covers Module 5, Parts 1 & 2 -- material from\nLectures 11 and 12)\nLab 11: Independence\nLecture video - Mutually exclusive events Lecture video - The addition rule\nLecture video - The complement rule, revisited Comprehension Quiz 13\nLab 12: Independence, mutual exclusivity, and review Assignment 2 (Covers Module 5)\n\n\nModule 6: Chance processes and the box model (Weeks 10- 11)\nTopics: Box model for repeated experiments (probability distributions); expected value and standard error calculations; Central Limit Theorem\nLecture video - Chance processes and repeated experiments Lecture video - The box model\nLecture video - Box model practice: Roulette Comprehension Quiz 14\nLab 13: Box models for chance processes Lecture video - Probability histograms\nLecture video - Expected value and standard error of the sum of draws\nLecture video - The Central Limit Theorem for the sum of draws Lecture video - Applying the CLT\nComprehension Quiz 15\nLab 14: Expected value and standard error Lecture video - Boxes for classifying and counting\nLecture video - Probability histograms of 0-1 boxes Lecture video - Simulations for box models\nComprehension Quiz 16\nLab 15: Classifying and counting Mastery Quiz 4 (Covers Module 6)\n\n\nModule 7: Sampling from a population (Weeks 11-12)\nTopics: Simple random sample; critiquing design of sample surveys; accuracy of the sample percentage\nLecture video - Sample surveys and biases in surveys\nLecture video - Case study: 2016 and 2020 U.S. Presidential polls Lecture video - Other survey methods\nComprehension Quiz 17 Lab 16: Sample surveys\nLecture video - Probability histograms of statistics Lecture video - The sample percentage\nLecture video - Accuracy of the sample percentage Comprehension Quiz 18\nLab 17: The sample percentage Assignment 4: Covers Modules 6 & 7\n\n\nModule 8: Estimation and confidence intervals (Weeks 12- 13)\nTopics: Plug-in method of estimation; calculating and interpreting confidence intervals\nLecture video - Estimation and the plug-in method\nLecture video - Confidence intervals for the population percentage Lecture video - Interpreting confidence intervals\nComprehension Quiz 19\nLab 18: Estimation and confidence intervals for the population percentage\nLecture video - Probability histogram of the sample average Lecture video - Confidence intervals for the population average Lecture video - Estimation and confidence interval review\nComprehension Quiz 20\nLab 19: Estimation and confidence intervals for the population average\nMastery Quiz 5 (Covers Module 8)\n\n\nModule 9: Tests of significance (Weeks 13-15)\nTopics: Hypothesis testing framework; one and two sample z tests; p-values; one and two tailed tests; limitations of hypothesis testing\nLecture video - Tests of significance\nLecture video - The z test and computing the p-value Lecture video - One-tailed and two-tailed tests Comprehension Quiz 21\nLab 20: Tests of significance and the z test statistic Lecture video - Generalizing the z test\nLecture video - Two-sample z tests for independent samples Lecture video - Two-sample z tests for experiments Comprehension Quiz 22\nLab 21: Tests for comparing groups Lecture video - Interpreting p-values\nLecture video - The wide world of test statistics Lecture video - Hypothesis testing caveats\nComprehension Quiz 23\nLab 22: Testing caveats and testing review\n\n\nModule 10: Statistics: The big picture (Week 15)\nTopics: Identifying appropriate statistical techniques for a given applied problem; knowing when NOT to use a statistical technique; using probability to describe the limitations of statistical inference\nLecture video - Topic review and synthesizing questions, part 1 Lecture video - Synthesizing questions, part 2\nLecture video - Main ideas of the course Comprehension Quiz 24\nAssignment 5 (Covers Modules 8-10)\n\n\nRRR Week activities (Week 15)\nActivities TBD\n\n\nFinal Exam",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "License"
+    ]
+  },
+  {
     "objectID": "staff.html",
     "href": "staff.html",
     "title": "Staff",
@@ -17,36 +147,6 @@
     "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\n\n\nInsert text about the class here.",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Jump to:",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#about-stat-2",
-    "href": "syllabus.html#about-stat-2",
-    "title": "Syllabus",
-    "section": "About Stat 2",
-    "text": "About Stat 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "License"
     ]
   }
 ]
