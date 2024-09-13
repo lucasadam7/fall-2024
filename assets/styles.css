@@ -10,18 +10,6 @@
 .label-Homework { background-color: #E62100}
 
 
-th {
-    width: 10%;
-}
-
-td:first-of-type {
-    width: 60%;
-}
-
-td:last-of-type {
-    width: 30%;
-}
-
 table {
     border: 2px solid;
 }
