@@ -1,47 +1,34 @@
----
-title: "Staff"
----
+#### Course Instructor
+
+-   [Adam Lucas](mailto:alucas@berkeley.edu)
 
 
-Office hours are subject to change.
+#### Graduate Student Instructors (GSIs)
 
------
+-   [Isabel Moreno: (labs
+	105,106)](mailto:isabel_moreno@berkeley.edu)
 
-::: {.grid}
+-   [Frederik Stihler: (labs
+	101,103)](mailto:frederik.stihler@berkeley.edu)
 
-::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Person X</a><br>
-`x@berkeley.edu`<br>
-Office hours: <br>
-- Thursday 3pm-5pm, Evans 309 <br>
-- Friday 2:00pm-4:30pm, Evans 309<br>
-:::
+-   [Lauren Murai: (labs
+	102,104)](mailto:lauren_murai@berkeley.edu)
 
-::: {.g-col-4}
-**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Person Y</a><br>
-`y@berkeley.edu`<br>
-Office hours:<br>
-- Monday 11am-12pm, Evans 432<br>
-- Tuesday 4pm-5pm, Evans 432<br>
-- Wednesday 2pm-3pm, Evans 432<br>
-- Friday 12pm-1pm, Evans 432
-:::
+-   [Jasmine Khamuani (labs
+	107,110)](mailto:jasmine_khamuani@berkeley.edu)
 
-::: {.g-col-4}
-**Tutor:** Person Z<br>
-`z@berkeley.edu`<br>
-Office hours: <br>
-- Wednesday 2:30pm - 4:30pm, Evans 434<br>
-- Sunday 2pm - 6pm, <a href="https://berkeley.zoom.us/j/99887452083?pwd=T1pXWC9HZFpTRHQzc1MrOElUakFUdz09">Zoom</a>
-:::
+-   [Yimeng Yin (labs
+	108,109)](mailto:yimeng_yin@berkeley.edu)
 
-::: {.g-col-4}
-**Tutor**: Person W<br>
-`w@berkeley.edu`<br>
-Office hours: <br>
-- Wednesday 10am-2pm, Evans 432<br>
-- Thursday 3-5pm, Evans 434
-:::
+-   [Austin Tao (labs
+	111,117)](mailto:austin_tao@berkeley.edu)
 
-:::
+-   [Cancan Jin (labs 112,
+	113)](mailto:jccmiranda@berkeley.edu)
+
+-   [Minh Le (labs 114,
+	116)](mailto:minh4a11@berkeley.edu)
+
+-   [Yichen Xu (labs 115,
+	118)](mailto:yichen_xu@berkeley.edu)
 
